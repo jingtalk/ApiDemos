@@ -1,0 +1,15 @@
+.settings
+bin
+gen
+.classpath
+.project
+.idea
+.gradle
+*.iml
+.DS_Store
+out
+local.properties
+qrom.properties
+project.properties
+build/
+_OUTPUTLIBS/
